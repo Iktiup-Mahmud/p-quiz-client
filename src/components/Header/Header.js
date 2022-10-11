@@ -1,5 +1,4 @@
 import React from 'react';
-import Card from 'react-bootstrap/Card';
 import './Header.css'
 
 
@@ -11,7 +10,7 @@ const Header = () => {
             <img src="https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg" alt="" />
         </div>
         <div className="body">
-            <h1>Quiz time</h1>
+            <h2>Quiz time</h2>
         </div>
       </div>
      </div>

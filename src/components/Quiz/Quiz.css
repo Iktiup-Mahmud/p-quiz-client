@@ -1,0 +1,9 @@
+.quiz-cart{
+    background-color: rgb(33, 37, 41);
+    color: aliceblue;
+    border: 3px solid red;
+    /* margin: 10px; */
+}
+.quiz-cart img{
+    width: 170px;
+}
