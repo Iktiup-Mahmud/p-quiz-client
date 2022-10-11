@@ -10,7 +10,7 @@
 }
 
 .active {
-    color: magenta !important; 
+    color: orangered !important; 
     background: rgb(132, 132, 132);
     border-radius: 10px;
 }
