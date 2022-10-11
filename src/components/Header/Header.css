@@ -1,0 +1,24 @@
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-container{
+    display: flex;
+    border: 3px solid magenta;
+    margin: 50px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(33, 37, 41);
+    color: aliceblue
+}
+.quiz-img img{
+    width: 100px;
+    border-radius: 30%;
+    /* padding: ; */
+    margin: 20px;
+}
+.body{
+    margin: 20px;
+}

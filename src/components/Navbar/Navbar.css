@@ -8,3 +8,9 @@
 .nav-links a:hover {
     color: rgba(255, 255, 255, 1);
 }
+
+.active {
+    color: magenta !important; 
+    background: rgb(132, 132, 132);
+    border-radius: 10px;
+}

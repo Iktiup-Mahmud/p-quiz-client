@@ -20,7 +20,7 @@ const NavBar = () => {
                     </Nav>
 
                     <Nav className='nav-links'>
-                        <NavLink to='/home'>Home</NavLink>
+                        <NavLink to='/home' className={({isActive}) => (isActive ? "active" : "Undefined")}>Home</NavLink>
                         <NavLink to='/topics'>Topics</NavLink>
                         <NavLink to='/statistics'>Statistics</NavLink>
                         <NavLink to='/blog'>Blog</NavLink>
